@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Node.js开发博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocytus1223/node-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocytus1223/node-blog/issues"
+  },
+  "homepage": "https://github.com/cocytus1223/node-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookies": "^0.7.3",
+    "express": "^4.16.4",
+    "markdown": "^0.5.0",
+    "mongoose": "^5.3.14",
+    "swig": "^1.4.2"
+  }
+}
